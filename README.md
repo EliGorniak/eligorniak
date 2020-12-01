@@ -1,5 +1,5 @@
 <h1 align="center">
-  :star: Hey, I'm Eli Gorniak 
+  :wave: Hello! I'm Eli Gorniak :wink:
 </h1>
 
 #### :rocket: Data Scientist
