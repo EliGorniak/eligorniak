@@ -12,7 +12,7 @@ I'm a self-taught data scientist and developer, living in Minnesota - USA.
 
 Currently, I'm dedicating 100% of my time studying and developing skills on data science field.
 
-- :bar_chart: As part of my development as a data scientist, I created some more complex projects, and you can see them all on Data Science Professional Portfolio.
+- :bar_chart: As part of my development as a data scientist, I created some more complex projects, and you can see them all on [**Data Science Professional Portfolio**](https://github.com/EliGorniak/Data_Science_Professional_Portfolio) repository.
 
 - :rocket: I have been attending several courses to improve my knowledge, and all details about the courses, projects, and certificates you can find them on [**Data Science Learning Projects**](https://github.com/EliGorniak/Data_Science_Publications_Articles) repository.
 
