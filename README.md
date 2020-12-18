@@ -16,6 +16,6 @@ Currently, I'm dedicating 100% of my time studying and developing skills on data
 
 - :rocket: I have been attending several courses to improve my knowledge, and all details about the courses, projects, and certificates you can find them on [**Data Science Learning Projects**](https://github.com/EliGorniak/Data_Science_Publications_Articles) repository.
 
-- :black_nib: I love to whrite, so you can see all my articles on my [**Data Science Publications & Articles**](https://github.com/EliGorniak/Data_Science_Publications_Articles) repository.
+- :black_nib: I love to write, so you can see all my articles on my [**Data Science Publications & Articles**](https://github.com/EliGorniak/Data_Science_Publications_Articles) repository.
 
 - :mailbox_with_mail: How to reach me: eligorniak@gmail.com
