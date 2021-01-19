@@ -14,7 +14,7 @@ Currently, I'm dedicating 100% of my time studying and developing skills on data
 
 - :bar_chart: As part of my development as a data scientist, I created some more complex projects, and you can see them all on [**Data Science Professional Portfolio**](https://github.com/EliGorniak/Data_Science_Professional_Portfolio) repository.
 
-- :rocket: I have been attending several courses to improve my knowledge, and all details about the courses, projects, and certificates you can find them on [**Data Science Learning Projects**](https://github.com/EliGorniak/Data_Science_Publications_Articles) repository.
+- :rocket: I have been attending several courses to improve my knowledge, and all details about the courses, projects, and certificates you can find them on [**Data Science Learning Projects**](https://github.com/EliGorniak/Data_Science_Learning_Projects) repository.
 
 - :black_nib: I love to write, so you can see all my articles on my [**Data Science Publications & Articles**](https://github.com/EliGorniak/Data_Science_Publications_Articles) repository.
 
