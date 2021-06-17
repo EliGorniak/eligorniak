@@ -22,3 +22,7 @@ Currently, I'm dedicating 100% of my time studying and developing skills on data
 
 ---
 :mailbox_with_mail: Get in touch: eligorniak@gmail.com
+  
+
+---
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eligorniak&repo=EliGorniak&countColorcountColor&countColor=%237B1E7A)  
