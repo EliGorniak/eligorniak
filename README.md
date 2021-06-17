@@ -12,7 +12,7 @@ I'm a self-taught data analyst and data scientist student, living in Minnesota -
 
 Currently, I'm dedicating 100% of my time studying and developing skills on data field.
   
-- :moneybag: All the projects for Business Intelligence-Analytics, using Microsoft Power BI, can be found on [**Power BI Portfolio**](https://github.com/EliGorniak/Business_Intelligence_Analytics_PowerBI_Portfolio) repository.
+- :moneybag: All the projects for Business Intelligence-Analytics, using Microsoft Power BI and Tableau, can be found on [**BI Portfolio**](https://github.com/EliGorniak/Business_Intelligence_Analytics_PowerBI_Portfolio) repository.
 
 - :bar_chart: As part of my development as a data scientist, I created some more complex projects, and you can see them all on [**Data Science Professional Portfolio**](https://github.com/EliGorniak/Data_Science_Professional_Portfolio) repository (under construction).
 
